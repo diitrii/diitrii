@@ -1,6 +1,7 @@
 # Dmitri Singer
 ### I am a programmer learning C++, interested in cybersecurity and game design.
 📧 For business inquiries contact me at dsinger03@outlook.com
+
 /++++++++++++++++++++++++++++++/
 /++++++++++++++++++++++++++++++/
 ## Knowledge basis:
